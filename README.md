@@ -10,5 +10,5 @@ A curated list of EEG based neurofeedback games.
 ## Theory
 
 ## Game
-### Neurofeedback-game
-### Serious-game
+### Neurofeedback game
+### Serious game
