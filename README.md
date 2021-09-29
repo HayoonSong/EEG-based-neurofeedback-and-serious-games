@@ -2,11 +2,13 @@
 A curated list of EEG based neurofeedback games.
 
 ## Table of Contents
-- [Theory](##Theory)
--- Hello
-- [List](##List)
+* [Theory](##Theory)
+* [Game](##Game)
+  - [Neurofeedback game](###Neurofeedback-game)
+  - [Serious game](###Serious-game)
 
 ## Theory
-pass
 
-## List
+## Game
+### Neurofeedback-game
+### Serious-game
