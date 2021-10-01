@@ -8,7 +8,7 @@ A curated list of EEG based neurofeedback games.
   - [Serious game](###Serious-game)
 
 ## Theory
-Neurofeedback is a type of **biofeedback** in which neural activity is measured and presented through one or more sensory channels to the participant in real time to **facilitate self-regulation of the putative neural substrates** that underlie a particular behaviour or pathology(Sitaram, 2017).
+Neurofeedback is a type of **biofeedback** in which neural activity is measured and presented through one or more sensory channels to the participant in real time to **facilitate self-regulation of the putative neural substrates** that underlie a particular behaviour or pathology(Sitaram, 2017). [[pdf]](https://www.nature.com/articles/nrn.2016.164)
 
 ## Game
 ### Neurofeedback game
