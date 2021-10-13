@@ -3,7 +3,7 @@ A curated list of EEG based neurofeedback games.
 
 ## Table of Contents
 * [Theory](##Theory)
-* [Neurofeedback game](###Neurofeedback-game)
+* [Neurofeedback game for congitive enhancement](###Neurofeedback-game)
   - Healthy people
   - Mild cognitive impairment (MCI)
   - Attention deficit hyperactivity disorder (ADHD)
@@ -12,7 +12,7 @@ A curated list of EEG based neurofeedback games.
 ## Theory
 Neurofeedback is a type of **biofeedback** in which neural activity is measured and presented through sensory channels to the participant in real time to **facilitate self-regulation of the putative neural substrates** that underlie a particular behaviour or pathology(Sitaram, 2017). [[Paper]](https://www.nature.com/articles/nrn.2016.164)
 
-## Neurofeedback game
+## Neurofeedback game for cognitive enhancement
 ### Healthy people
 * Serious Games as Potential Therapies: A Validation Study of a Neurofeedback Game [[Paper]](https://pubmed.ncbi.nlm.nih.gov/31423818/)
   - Femke Coenen, Floortje E Scheepers, Saskia J M Palmen, Maretha V de Jonge, Bob Oranje, 2020
