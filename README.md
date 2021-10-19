@@ -22,6 +22,9 @@ Neurofeedback is a type of **biofeedback** in which neural activity is measured 
   - Pasin Israsena1, Suwicha Jirayucharoensak1, Solaphat Hemrungrojn, Setha Pan-Ngum4, 2021
 
 ### Attention deficit hyperactivity disorder (ADHD)
+* Game-based combined cognitive and neurofeedback training using Focus Pocus reduces symptom severity in children with diagnosed AD/HD and subclinical AD/HD [[Paper]](https://www.sciencedirect.com/science/article/pii/S016787601730140X)
+  - Stuart J.Johnstone, Steven J.Roodenrys, KirstenJohnson, RebeccaBonfield, Susan J.Bennettab, 2017
+
 * Effect of combined neurofeedback and game-based cognitive training on the treatment of ADHD: A randomized controlled study [[Paper]](https://www.tandfonline.com/doi/full/10.1080/21622965.2018.1556101)
   - Rajabi, Soran, Ali Pakize, and NozhatAlzaman Moradi, 2020
 
