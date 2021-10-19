@@ -1,4 +1,4 @@
-# EEG-based-Neurofeedback-Game
+# EEG-based-Neurofeedback-and-Serious-Games
 A curated list of EEG based neurofeedback games.
 
 ## Table of Contents
