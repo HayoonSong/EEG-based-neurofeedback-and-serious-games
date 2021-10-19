@@ -37,6 +37,13 @@ Both pronounced and persistent oscillatory patterns expressed during Neurofeedba
   - Jose Mercado1, Lizbeth Escobedo2, Monica Tentori, 2020
 
 ## Serious game for cognitive enhancement
+### Healthy children
+* Analyzing EEG waves to support the design of serious games for cognitive training [[Paper]](https://link.springer.com/article/10.1007/s12652-018-0841-0)
+  - Tania Mondéjar, Ramón Hervás, Esperanza Johnson, Carlos Gutiérrez-López-Franca & José Miguel Latorre, 2019
+
+* Correlation between videogame mechanics and executive functions through EEG analysis [[Paper]](https://www.sciencedirect.com/science/article/pii/S1532046416300831)
+  - TaniaMondéjar, RamónHervás, EsperanzaJohnson, CarlosGutierrez, José MiguelLatorre, 2016
+
 ### Elderly
 * Development and Evaluation of a Computer Game Combining Physical and Cognitive Activities for the Elderly [[Paper]](https://ieeexplore.ieee.org/abstract/document/9272779)
   - Yu-Hsiang Lin, Hui-Fen Mao, Kai Neng Lin, Yuan Ling Tang, Chao-Lin Yang, Jui-Jen Chou, 2020
