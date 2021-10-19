@@ -2,21 +2,20 @@
 A curated list of EEG based neurofeedback games.
 
 ## Table of Contents
-* [Theory](##Theory)
-* [Neurofeedback game for congitive enhancement](###Neurofeedback-game)
+* [Neurofeedback game for congitive enhancement](##Neurofeedback-game)
+  - Theory
   - Healthy people
   - Mild cognitive impairment (MCI)
   - Attention deficit hyperactivity disorder (ADHD)
   - Autism
 
-## Theory
+## Neurofeedback game for cognitive enhancement
+### Theory
 Neurofeedback is a type of **biofeedback** in which neural activity is measured and presented through sensory channels to the participant in real time to **facilitate self-regulation of the putative neural substrates** that underlie a particular behaviour or pathology(Sitaram, 2017). [[Paper]](https://www.nature.com/articles/nrn.2016.164)
 
-## Neurofeedback game for cognitive enhancement
 ### Mild cognitive impairment (MCI)
 * A game-based neurofeedback training system to enhance cognitive performance in healthy elderly subjects and in patients with amnestic mild cognitive impairment [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388796/)
   - Suwicha Jirayucharoensak, Pasin Israsena, Setha Pan-ngum, Solaphat Hemrungrojn, Michael Maes, 2019
-
  
 * Brain Exercising Games With Consumer-Grade Single-Channel Electroencephalogram Neurofeedback: Pre-Post Intervention Study [[Paper]](https://games.jmir.org/2021/2/e26872/)
   - Pasin Israsena1, Suwicha Jirayucharoensak1, Solaphat Hemrungrojn, Setha Pan-Ngum4, 2021
@@ -32,9 +31,7 @@ Neurofeedback is a type of **biofeedback** in which neural activity is measured 
 * A BCI video game using neurofeedback improves the attention of children with autism [[Paper]](https://link.springer.com/article/10.1007/s12193-020-00339-7)
   - Jose Mercado1, Lizbeth Escobedo2, Monica Tentori, 2020
 
-### Etc
-
-
-
-
-### Serious game
+## Serious game for cognitive enhancement
+### Elderly
+* Development and Evaluation of a Computer Game Combining Physical and Cognitive Activities for the Elderly
+  - Yu-Hsiang Lin, Hui-Fen Mao, Kai Neng Lin, Yuan Ling Tang, Chao-Lin Yang, Jui-Jen Chou, 2020
