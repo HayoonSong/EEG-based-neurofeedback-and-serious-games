@@ -13,6 +13,8 @@ A curated list of EEG based neurofeedback games.
 ### Theory
 Neurofeedback is a type of **biofeedback** in which neural activity is measured and presented through sensory channels to the participant in real time to **facilitate self-regulation of the putative neural substrates** that underlie a particular behaviour or pathology(Sitaram, 2017). [[Paper]](https://www.nature.com/articles/nrn.2016.164)
 
+Both pronounced and persistent oscillatory patterns expressed during Neurofeedback would be associated with tangible and long-lasting (plastic) changes in motor-evoked potential (MEPs) elicited by TMS of primary motor cortex(Ros, 2010). [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1460-9568.2010.07100.x)
+
 ### Mild cognitive impairment (MCI)
 * A game-based neurofeedback training system to enhance cognitive performance in healthy elderly subjects and in patients with amnestic mild cognitive impairment [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388796/)
   - Suwicha Jirayucharoensak, Pasin Israsena, Setha Pan-ngum, Solaphat Hemrungrojn, Michael Maes, 2019
