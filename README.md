@@ -2,7 +2,7 @@
 A curated list of EEG based neurofeedback games.
 
 ## Table of Contents
-* [Neurofeedback game for congitive enhancement] (## Neurofeedback-game-for-cognitive-enhancement)
+* [Neurofeedback game for congitive enhancement](##Neurofeedback-game-for-cognitive-enhancement)
   - Theory
   - Healthy people
   - Mild cognitive impairment (MCI)
