@@ -2,12 +2,14 @@
 A curated list of EEG based neurofeedback games.
 
 ## Table of Contents
-* [Neurofeedback game for congitive enhancement](##Neurofeedback-game)
+* [Neurofeedback game for congitive enhancement](## Neurofeedback-game-for-cognitive enhancement)
   - Theory
   - Healthy people
   - Mild cognitive impairment (MCI)
   - Attention deficit hyperactivity disorder (ADHD)
   - Autism
+
+* [Serious game for cognitive enhancement](## Serious-game for-cognitive-enhancement)
 
 ## Neurofeedback game for cognitive enhancement
 ### Theory
