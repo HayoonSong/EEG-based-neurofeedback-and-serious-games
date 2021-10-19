@@ -33,5 +33,5 @@ Neurofeedback is a type of **biofeedback** in which neural activity is measured 
 
 ## Serious game for cognitive enhancement
 ### Elderly
-* Development and Evaluation of a Computer Game Combining Physical and Cognitive Activities for the Elderly
+* Development and Evaluation of a Computer Game Combining Physical and Cognitive Activities for the Elderly [[Paper]](https://ieeexplore.ieee.org/abstract/document/9272779)
   - Yu-Hsiang Lin, Hui-Fen Mao, Kai Neng Lin, Yuan Ling Tang, Chao-Lin Yang, Jui-Jen Chou, 2020
