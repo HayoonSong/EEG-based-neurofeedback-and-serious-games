@@ -9,7 +9,7 @@ A curated list of EEG based neurofeedback games.
   - Attention deficit hyperactivity disorder (ADHD)
   - Autism
 
-* [Serious game for cognitive enhancement] (## Serious-game-for-cognitive-enhancement)
+* [Serious game for cognitive enhancement](##Serious-game-for-cognitive-enhancement)
 
 ## Neurofeedback game for cognitive enhancement
 ### Theory
