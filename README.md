@@ -10,6 +10,7 @@ A curated list of EEG based neurofeedback games.
   - Autism
 
 * [Serious game for cognitive enhancement](##Serious-game-for-cognitive-enhancement)
+  - Healthy Children
   - Elderly
 
 ## Neurofeedback game for cognitive enhancement
